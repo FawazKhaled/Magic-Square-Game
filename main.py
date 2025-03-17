@@ -41,12 +41,6 @@ def submit():
         label.config(text="")
       #  print(inputs2D)
 
-
-
-        for i in entry:
-            if i is entry:
-                print('hello')
-
         #CHECK SUM
         sumd1 = 0
         sumd2 = 0
